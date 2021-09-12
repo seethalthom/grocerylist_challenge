@@ -1,0 +1,95 @@
+{
+    "mygrocery": [{
+            "SerialNo": "01",
+            "Name": "Carrot",
+            "Quantity": "02",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Fresh"
+
+        },
+        {
+            "SerialNo": "02",
+            "Name": "Chiken",
+            "Quantity": "01",
+            "Unit": "Kg",
+            "Department": "Poultry",
+            "Notes": "Drumsticks"
+
+        },
+        {
+            "SerialNo": "03",
+            "Name": "Oil",
+            "Quantity": "01",
+            "Unit": "Litre",
+            "Department": "Grocery",
+            "Notes": "Vegetable oil"
+
+        },
+        {
+            "SerialNo": "04",
+            "Name": "Rice",
+            "Quantity": "05",
+            "Unit": "Kg",
+            "Department": "Grocery",
+            "Notes": "Double horse"
+
+        },
+        {
+            "SerialNo": "05",
+            "Name": "Egg",
+            "Quantity": "20",
+            "Unit": "Number",
+            "Department": "Poultery",
+            "Notes": "Brown Egg"
+
+        },
+        {
+            "SerialNo": "06",
+            "Name": "Onion",
+            "Quantity": "02",
+            "Unit": "Kg",
+            "Department": "Vegetables",
+            "Notes": "Small Size"
+
+        },
+        {
+            "SerialNo": "07",
+            "Name": "Sugar",
+            "Quantity": "01",
+            "Unit": "Kg",
+            "Department": "Grocery",
+            "Notes": "Lulu"
+
+        },
+        {
+            "SerialNo": "08",
+            "Name": "Fish",
+            "Quantity": "01",
+            "Unit": "Kg",
+            "Department": "Poultry",
+            "Notes": "Saradine"
+
+        },
+        {
+            "SerialNo": "09",
+            "Name": "Lays",
+            "Quantity": "05",
+            "Unit": "Packet",
+            "Department": "Grocery",
+            "Notes": "Spicy Tomato"
+
+        },
+        {
+            "SerialNo": "10",
+            "Name": "Green Tea",
+            "Quantity": "1",
+            "Unit": "Box",
+            "Department": "Grocery",
+            "Notes": "Lipton"
+
+        }
+
+    ]
+
+}
